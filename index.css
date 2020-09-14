@@ -6,15 +6,13 @@ table {
     border-collapse: collapse;
     width: auto;
 }
-td{
-    background-color: #00D1FF;
+td {
     width:4rem;
     height: 4rem;
 }
 td button {
     width: 4rem;
     height: 4rem;
+    opacity: 10%;
+    background-color: blanchedalmond;
 }
-
-td:nth-child(even) {background-color: #181A27;}
-tr:nth-child(even) {background-color: #00D1FF}
