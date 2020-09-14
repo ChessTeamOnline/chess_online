@@ -1,4 +1,5 @@
 #body {
+<<<<<<< HEAD
     width: auto;
     height: auto;
   }
@@ -18,3 +19,24 @@
     opacity: 20%;
     background-color: blanchedalmond;
   }
+=======
+  width: auto;
+  height: auto;
+}
+table {
+  border-collapse: collapse;
+  width: auto;
+}
+td {
+  width: 4rem;
+  height: 4rem;
+}
+td button {
+  visibility: hidden;
+  border: dashed 2px rgb(255, 175, 192);
+  width: 4rem;
+  height: 4rem;
+  opacity: 20%;
+  background-color: blanchedalmond;
+}
+>>>>>>> 599257c296e07dbd5c04c7c68640b0a016f7bda8
