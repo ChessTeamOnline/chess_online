@@ -1,18 +1,20 @@
-#body{
-    width: auto;
-    height: auto;
+#body {
+  width: auto;
+  height: auto;
 }
 table {
-    border-collapse: collapse;
-    width: auto;
+  border-collapse: collapse;
+  width: auto;
 }
 td {
-    width:4rem;
-    height: 4rem;
+  width: 4rem;
+  height: 4rem;
 }
 td button {
-    width: 4rem;
-    height: 4rem;
-    opacity: 10%;
-    background-color: blanchedalmond;
+  visibility: hidden;
+  border: dashed 2px rgb(255, 175, 192);
+  width: 4rem;
+  height: 4rem;
+  opacity: 20%;
+  background-color: blanchedalmond;
 }
